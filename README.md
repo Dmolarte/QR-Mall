@@ -1,2 +1,2 @@
-# QR-Mall
+# QR Mall
 Boot camp Project
